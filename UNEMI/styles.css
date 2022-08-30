@@ -1,0 +1,82 @@
+.home{
+    font-size: 25px;
+    background-color: rgb(224, 240, 255);
+    border-radius: 10%;
+}
+a { background-color: aliceblue;
+    font-size: 50;
+}
+a{width: 300px;
+}
+h3{background-color: #e8ceff}
+h4{background-color: #e8ceff}
+p { background-color: hotpink}
+p{margin: 0; background-color: hotpink}
+*{margin:0;}
+.text-1{
+    text-align: center;
+}
+.text-2{text-align: center}
+.texto-3{text-align: center}
+.texto-4{
+    text-align: center;
+    font-size: 40px;
+}
+.texto-5{text-align: center}
+.texto-6{width: 40px;}
+.text-just{
+    text-align: left;
+}
+
+.color{
+    border-radius: 20%;
+}
+.imagen{
+    width: 150%;
+    height: 150vh;
+    position: absolute;
+    opacity: 0.8;
+    text-align: center;
+}
+.parrafo{
+    z-index: -1;
+    width: 520px;
+    height: 420px;
+    padding: 20px 20px;
+    font-size: 20px;
+    line-height: 1;
+    background: #e8ceff;
+    box-shadow: 1px 5px 25px rgba(0,0, 0, 0.45);
+    border-radius: 5px;
+
+}
+.parrafo img{
+    width: 300px;
+    border-radius: 5px;
+    float:left;
+    margin-right: 15px;
+}
+.letras{
+    font-size: 25px;
+}
+.box:hover{
+    transform: scale(1.25);
+}
+
+.form-register{
+    width: 400px;
+    background: beige;
+    padding: 30px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 4px;
+    font-family: Calibri;
+}
+.controls{
+    border-radius: 4px;
+
+}
+
+.imah:hover{
+    transform: scale(1.15);
+}
